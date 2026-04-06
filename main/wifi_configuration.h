@@ -4,7 +4,7 @@
  * @version 0.1
  * @date 2020-01-22
  *
- * @copyright Copyright (c) 2020
+ * @copyright Copyright (c)  edit 2026-4-6 12:53:54
  *
  */
 #ifndef __WIFI_CONFIGURATION__
